@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net471</TargetFramework>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+ <OutputType>Library</OutputType>
+  <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Sitecore.Framework.Messaging.Abstractions" Version="4.0.1" />
+    <PackageReference Include="Sitecore.Framework.Messaging.Configuration" Version="4.0.1" />
+    <PackageReference Include="Sitecore.Kernel" Version="9.3.0" />
+    <PackageReference Include="Sitecore.Services.Infrastructure" Version="9.3.0" />
+  </ItemGroup>
+
+</Project>
