@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreMessagingQueueSample", "SitecoreMessagingQueueSample\SitecoreMessagingQueueSample.csproj", "{B33A7D51-096A-455A-902A-015D9FD0FEA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B33A7D51-096A-455A-902A-015D9FD0FEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33A7D51-096A-455A-902A-015D9FD0FEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33A7D51-096A-455A-902A-015D9FD0FEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33A7D51-096A-455A-902A-015D9FD0FEA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDE5D044-1C50-43E1-9488-6FDC0CB117AF}
+	EndGlobalSection
+EndGlobal
